@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-pip install git+https://github.com/sjahangard/JRDB-Social.git
+pip install git+https://github.com/JRDB-dataset/JRDB-Social.git
 ```
 
 ## Data Preprocessing 
